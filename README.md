@@ -9,6 +9,7 @@
 ![REDUX](https://img.shields.io/badge/REDUX-violet?style=flat&logo=redux&logoColor=purple)
 
 <h2>관심있는 기술 🧑‍💻</h2>
+
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=typescript&logoColor=white)
 ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-black?style=flat&logo=next.js&logoColor=white)
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-blue?style=flat&logo=flutter&logoColor=white)
