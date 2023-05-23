@@ -13,3 +13,6 @@
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=typescript&logoColor=white)
 ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-black?style=flat&logo=next.js&logoColor=white)
 ![FLUTTER](https://img.shields.io/badge/FLUTTER-blue?style=flat&logo=flutter&logoColor=white)
+
+<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wns2252)](https://solved.ac/wns2252/)
