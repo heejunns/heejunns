@@ -7,6 +7,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/REACT-blue?style=flat&logo=react&logoColor=skyblue)
 ![REDUX](https://img.shields.io/badge/REDUX-violet?style=flat&logo=redux&logoColor=purple)
+![STYLED-COMPONENTS](https://img.shields.io/badge/STYLED_COMPONENTS-pink?style=flat&logo=styled-components&logoColor=white)
 
 <h2>관심있는 기술 🧑‍💻</h2>
 
