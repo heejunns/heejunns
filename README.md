@@ -6,7 +6,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat&logo=javascript&logoColor=black)
 ![REACT](https://img.shields.io/badge/REACT-blue?style=flat&logo=react&logoColor=skyblue)
-![REDUX](https://img.shields.io/badge/REDUX-violet?style=flat&logo=redux&logoColor=purple)
+![RECOIL](https://img.shields.io/badge/RECOIL-skyblue?style=flat&logo=recoil&logoColor=purple)
 ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-black?style=flat&logo=next.js&logoColor=white)
 ![STYLED-COMPONENTS](https://img.shields.io/badge/STYLED_COMPONENTS-pink?style=flat&logo=styled-components&logoColor=white)
 
