@@ -1,6 +1,6 @@
 ### 좋은 코드는 좋은 사용자 경험을 제공한다고 생각하는 프론트엔드 개발자 입니다.
 
-<h2>공부하고 있는 기술 🧑‍💻</h2>
+<h2>공부하는 기술 🧑‍💻</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
