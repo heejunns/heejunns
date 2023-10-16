@@ -9,6 +9,7 @@
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=typescript&logoColor=white)
 ![STYLED-COMPONENTS](https://img.shields.io/badge/STYLED_COMPONENTS-pink?style=flat&logo=styled-components&logoColor=white)
 ![REACT-QUERY](https://img.shields.io/badge/REACT_QUERY-pink?style=flat&logo=REACT-QUERY&logoColor=red)
+![RECOIL](https://img.shields.io/badge/RECOIL-skyblue?style=flat&logo=RECOIL&logoColor=white)
 
 <h2>관심있는 기술 🧑‍💻</h2>
 
