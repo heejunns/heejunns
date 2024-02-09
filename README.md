@@ -17,7 +17,6 @@
 
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=typescript&logoColor=white)
 ![NEXT](https://img.shields.io/badge/NEXT-black?style=flat&logo=next.js&logoColor=white)
-![JEST](https://img.shields.io/badge/JEST-red?style=flat&logo=jest&logoColor=white)
 
 
 
