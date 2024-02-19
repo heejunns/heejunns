@@ -1,6 +1,6 @@
-### 좋은 코드는 좋은 사용자 경험을 제공한다고 생각하는 프론트엔드 개발자 입니다.
 
-<h2>응용 가능한 기술 🧑‍💻</h2>
+
+<h2>사용중인 기술</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
@@ -13,7 +13,7 @@
 ![AXIOS](https://img.shields.io/badge/AXIOS-black?style=flat&logo=AXIOS&logoColor=white)
 ![REACT-QUERY](https://img.shields.io/badge/REACT_QUERY-pink?style=flat&logo=REACT-QUERY&logoColor=red)
 
-<h2>현재 공부중인 기술 🧑‍💻</h2>
+<h2>공부중인 기술</h2>
 
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=typescript&logoColor=white)
 ![NEXT](https://img.shields.io/badge/NEXT-black?style=flat&logo=next.js&logoColor=white)
