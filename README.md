@@ -12,12 +12,14 @@
 ![RECOIL](https://img.shields.io/badge/RECOIL-skyblue?style=flat&logo=RECOIL&logoColor=white)
 ![AXIOS](https://img.shields.io/badge/AXIOS-black?style=flat&logo=AXIOS&logoColor=white)
 ![REACT-QUERY](https://img.shields.io/badge/REACT_QUERY-pink?style=flat&logo=REACT-QUERY&logoColor=red)
-
+![TAILWIND](https://img.shields.io/badge/TAILWIND-blue?style=flat&logo=TAILWIND-CSS&logoColor=white)
 <h2>공부중인 기술</h2>
 
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=typescript&logoColor=white)
 ![NEXT](https://img.shields.io/badge/NEXT-black?style=flat&logo=next.js&logoColor=white)
-
+![NODE](https://img.shields.io/badge/NODE-green?style=flat&logo=node.js&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/EXPRESS-green?style=flat&logo=express&logoColor=white)
+![NEST](https://img.shields.io/badge/NEST-black?style=flat&logo=nestjs&logoColor=white)
 
 
 
