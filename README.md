@@ -1,4 +1,4 @@
-안녕하세요. 저는 프론트엔드에 관심이 많은 개발자 입니다.
+안녕하세요. 개발자 호두 아빠 입니다.
 
 <h2>기술</h2>
 
@@ -18,6 +18,7 @@
 ![SVELTE-KIT](https://img.shields.io/badge/SVELTEKIT-red?style=flat&logo=SVELTE&logoColor=white)
 ![NODE](https://img.shields.io/badge/NODE-green?style=flat&logo=node.js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-green?style=flat&logo=express&logoColor=white)
+
 <h2>공부중인 기술</h2>
 
 ![NEXT](https://img.shields.io/badge/NEXT-black?style=flat&logo=next.js&logoColor=white)
