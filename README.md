@@ -1,4 +1,4 @@
-안녕하세요. 개발자 호두 아빠 입니다.
+
 
 <h2>기술</h2>
 
@@ -8,6 +8,7 @@
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=typescript&logoColor=white)
 ![REACT](https://img.shields.io/badge/REACT-blue?style=flat&logo=react&logoColor=skyblue)
+![NEXT](https://img.shields.io/badge/NEXT-black?style=flat&logo=next.js&logoColor=white)
 ![REDUX](https://img.shields.io/badge/REDUX-purple?style=flat&logo=redux&logoColor=white)
 ![STYLED-COMPONENTS](https://img.shields.io/badge/STYLED_COMPONENTS-pink?style=flat&logo=styled-components&logoColor=white)
 ![RECOIL](https://img.shields.io/badge/RECOIL-skyblue?style=flat&logo=RECOIL&logoColor=white)
@@ -21,7 +22,7 @@
 
 <h2>공부중인 기술</h2>
 
-![NEXT](https://img.shields.io/badge/NEXT-black?style=flat&logo=next.js&logoColor=white)
+
 ![NEST](https://img.shields.io/badge/NEST-black?style=flat&logo=nestjs&logoColor=white)
 
 
