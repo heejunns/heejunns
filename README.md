@@ -20,11 +20,5 @@
 ![NODE](https://img.shields.io/badge/NODE-green?style=flat&logo=node.js&logoColor=white)
 ![EXPRESS](https://img.shields.io/badge/EXPRESS-green?style=flat&logo=express&logoColor=white)
 
-<h2>공부중인 기술</h2>
-
-
-![NEST](https://img.shields.io/badge/NEST-black?style=flat&logo=nestjs&logoColor=white)
-
-
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wns2252)](https://solved.ac/wns2252)
