@@ -3,7 +3,7 @@
 <h2>기술</h2>
 
 ![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-pink?style=flat&logo=sass&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-yellow?style=flat&logo=javascript&logoColor=black)
 ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-blue?style=flat&logo=typescript&logoColor=white)
